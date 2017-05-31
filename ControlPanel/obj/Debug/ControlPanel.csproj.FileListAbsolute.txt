@@ -1,0 +1,6 @@
+c:\users\professor_schmidt\documents\visual studio 2015\Projects\ControlPanel\ControlPanel\bin\Debug\ControlPanel.exe.config
+c:\users\professor_schmidt\documents\visual studio 2015\Projects\ControlPanel\ControlPanel\obj\Debug\ControlPanel.csprojResolveAssemblyReference.cache
+c:\users\professor_schmidt\documents\visual studio 2015\Projects\ControlPanel\ControlPanel\bin\Debug\ControlPanel.exe
+c:\users\professor_schmidt\documents\visual studio 2015\Projects\ControlPanel\ControlPanel\bin\Debug\ControlPanel.pdb
+c:\users\professor_schmidt\documents\visual studio 2015\Projects\ControlPanel\ControlPanel\obj\Debug\ControlPanel.exe
+c:\users\professor_schmidt\documents\visual studio 2015\Projects\ControlPanel\ControlPanel\obj\Debug\ControlPanel.pdb

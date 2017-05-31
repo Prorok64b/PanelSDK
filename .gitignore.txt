@@ -1,0 +1,3 @@
+ControlPanel/bin
+ControlPanel/obj
+.vs
